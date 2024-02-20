@@ -457,7 +457,7 @@ if __name__ == "__main__":
         # Dataset='Projects_90_10'
 
         Git_path = '/Users/narjes/Documents/ETS/Contrib5-Recommendation/APPROACHES/MainApproach_GA/Experiment_6/Gits/'
-        Project_path = '/home/aq70670/NewServer/'
+        Project_path = '/home/aq70670/ServerNewExp/'
         #Project_path = '/Users/narjes/Documents/ETS/Contrib5-Recommendation/APPROACHES/MainApproach_GA/Experiment_7/Projects/'
 
         matrix = "Matrices_90_10"
