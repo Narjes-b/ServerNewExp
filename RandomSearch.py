@@ -240,12 +240,12 @@ class IndividualHashable:
 
 
 def main(iterations, population_size,f):
-    best_individual = None
-    best_fitness = float("-inf")
-    fitness_values = [best_fitness]
+        best_individual = None
+        best_fitness = float("-inf")
+        fitness_values = [best_fitness]
     # Open a file in write mode to save the iteration and best fitness values
-    with open(Project_path + project + '/' + Algo +'/'+'fitness_over_iterations.txt', 'a') as file:
-        file.write(f"{f}\n")
+    #with open(Project_path + project + '/' + Algo +'/'+'fitness_over_iterations.txt', 'a') as file:
+        #file.write(f"{f}\n")
         for iteration in range(iterations):
             # Generate a new set of random individuals
             population = [create_individual() for _ in range(population_size)]
@@ -260,7 +260,7 @@ def main(iterations, population_size,f):
                     fitness_values.append(best_fitness)
 
             #print(f"Iteration {iteration}: Best Fitness {best_fitness}")
-            file.write(f"{iteration}, {best_fitness}\n")
+            #file.write(f"{iteration}, {best_fitness}\n")
 
     #print("Best Individual:", best_individual)
     #print("Best Fitness:", best_fitness)

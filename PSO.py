@@ -266,13 +266,13 @@ def move_particle(current_position, personal_best_position, global_best_position
 
 
 def main(num_particles, num_iterations,f):
-    swarm, velocities = initialize_swarm(num_particles)
-    personal_best_positions = list(swarm)  # Make a shallow copy of the list of individuals
-    personal_best_scores = [float('-inf')] * num_particles
-    global_best_score = float('-inf')
-    global_best_position = None
-    with open(Project_path + project + '/' + Algo +'/'+'fitness_over_iterations.txt', 'a') as file:
-        file.write(f"{f}\n")
+        swarm, velocities = initialize_swarm(num_particles)
+        personal_best_positions = list(swarm)  # Make a shallow copy of the list of individuals
+        personal_best_scores = [float('-inf')] * num_particles
+        global_best_score = float('-inf')
+        global_best_position = None
+    #with open(Project_path + project + '/' + Algo +'/'+'fitness_over_iterations.txt', 'a') as file:
+      #  file.write(f"{f}\n")
         for iteration in range(num_iterations):
             for i in range(num_particles):
                 fitness_tuple = evaluate(swarm[i])
@@ -292,7 +292,7 @@ def main(num_particles, num_iterations,f):
             for i in range(num_particles):  # This loop ensures all particles are moved
                 swarm[i] = move_particle(swarm[i], personal_best_positions[i], global_best_position)
             #print(f"Iteration {iteration}: Best Fitness {global_best_score}")
-            file.write(f"{iteration}, {global_best_score}\n")
+            #file.write(f"{iteration}, {global_best_score}\n")
 
     #print("Best Solution:", global_best_position)
     #print("Best Fitness:", global_best_score)

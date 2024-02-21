@@ -376,18 +376,18 @@ def modify_solution(current_solution,step_size,temperature):
 #     return new_solution
 
 def main(evaluate, create_individual, initial_temp, cooling_rate, num_iterations,f,initial_step_size):
-    # Initialize with a random solution
-    current_solution = create_individual()
-    current_fitness = evaluate(current_solution)[0]  # Assuming evaluate returns a tuple
-    best_solution = current_solution
-    best_fitness = current_fitness
-    fitness_values = [best_fitness]
-    print("start point= ", best_fitness)
+        # Initialize with a random solution
+        current_solution = create_individual()
+        current_fitness = evaluate(current_solution)[0]  # Assuming evaluate returns a tuple
+        best_solution = current_solution
+        best_fitness = current_fitness
+        fitness_values = [best_fitness]
+        print("start point= ", best_fitness)
 
-    temperature = initial_temp
-    step_size = initial_step_size  # Initialize step size
-    with open(Project_path + project + '/' + Algo +'/'+'fitness_over_iterations.txt', 'a') as file:
-        file.write(f"{f}\n")
+        temperature = initial_temp
+        step_size = initial_step_size  # Initialize step size
+    #with open(Project_path + project + '/' + Algo +'/'+'fitness_over_iterations.txt', 'a') as file:
+        #file.write(f"{f}\n")
         for iteration in range(num_iterations):
             candidate_solution = modify_solution(current_solution,step_size,temperature)
             candidate_fitness = evaluate(candidate_solution)[0]
@@ -415,8 +415,8 @@ def main(evaluate, create_individual, initial_temp, cooling_rate, num_iterations
             temperature *= cooling_rate
             #step_size *= cooling_rate
 
-            print(f"Iteration {iteration}: Best Fitness {best_fitness}")
-            file.write(f"{iteration}, {best_fitness}\n")
+            #print(f"Iteration {iteration}: Best Fitness {best_fitness}")
+            #file.write(f"{iteration}, {best_fitness}\n")
     # Plotting the fitness values
    # plt.plot(fitness_values, 'ro-')
    # plt.xlabel('Iteration')
