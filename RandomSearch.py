@@ -273,7 +273,7 @@ def main(iterations, population_size,f):
 
 
 if __name__ == "__main__":
-    projects = ['puppet-openstack-integration']
+    projects = ['eyp-systemd']
     Algo = 'RS_FINAL'
     for project in projects:
 
