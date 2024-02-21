@@ -296,7 +296,7 @@ def main(num_particles, num_iterations,f):
 
     #print("Best Solution:", global_best_position)
     #print("Best Fitness:", global_best_score)
-    return global_best_position, global_best_score
+        return global_best_position, global_best_score
 
 
 if __name__ == "__main__":

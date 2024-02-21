@@ -422,7 +422,7 @@ def main(evaluate, create_individual, initial_temp, cooling_rate, num_iterations
    # plt.xlabel('Iteration')
    # plt.ylabel('Best Fitness Value')
    # plt.show()
-    return best_solution, best_fitness
+        return best_solution, best_fitness
 
 
 if __name__ == "__main__":

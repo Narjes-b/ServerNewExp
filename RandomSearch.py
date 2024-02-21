@@ -269,7 +269,7 @@ def main(iterations, population_size,f):
     #plt.xlabel('Iteration')
     #plt.ylabel('Best Fitness Value')
     #plt.show()
-    return best_individual, best_fitness
+        return best_individual, best_fitness
 
 
 if __name__ == "__main__":
