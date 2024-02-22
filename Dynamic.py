@@ -361,7 +361,7 @@ def main():
 
 
 if __name__ == "__main__":
-    projects = ['puppet-openstack-integration']
+    projects = ['infra']
     Algo = 'Dynamic'
     for project in projects:
 
