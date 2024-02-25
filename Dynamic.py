@@ -361,7 +361,7 @@ def main():
 
 
 if __name__ == "__main__":
-    projects = ['infra']
+    projects = ['eyp-systemd']
     Algo = 'Dynamic'
     for project in projects:
 
