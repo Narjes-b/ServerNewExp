@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/mysql_hardening/tasks/configure.yml_(IaC)_,30,0.22643468773398173,"[15, 13, 36, 89, 6, 17, 9, 91, 20, 49, 14, 11]"

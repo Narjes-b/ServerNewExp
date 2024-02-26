@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/pam_debian.yml_(IaC)_,15,0.1977308892650142,"[22, 33, 36, 14, 37, 34, 32, 24, 50, 90]"

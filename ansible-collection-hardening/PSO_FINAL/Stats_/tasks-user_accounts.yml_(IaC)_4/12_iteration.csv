@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/user_accounts.yml_(IaC)_,12,0.21500868667164297,"[36, 40, 26, 72, 38, 48, 39, 41, 20, 75]"

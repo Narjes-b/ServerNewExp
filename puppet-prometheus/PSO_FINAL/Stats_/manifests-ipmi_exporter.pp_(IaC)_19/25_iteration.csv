@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-prometheus/manifests/ipmi_exporter.pp_(IaC)_,25,0.16957279601709996,"[196, 194, 176, 183, 170, 165, 149, 167, 148, 113, 104, 71]"

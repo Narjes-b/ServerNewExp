@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/sysctl.yml_(IaC)_,18,0.21256739759230753,"[37, 38, 39, 40, 72, 12, 141, 81, 82, 119]"

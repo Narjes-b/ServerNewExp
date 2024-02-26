@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/nginx_hardening/tasks/main.yml_(IaC)_,30,0.1633011272021278,"[32, 33, 41, 106, 45, 52, 85, 89, 92, 63]"

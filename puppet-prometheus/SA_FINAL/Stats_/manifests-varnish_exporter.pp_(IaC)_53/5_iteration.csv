@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-prometheus/manifests/varnish_exporter.pp_(IaC)_,5,0.29614317093050796,"[182, 163, 177, 148, 188, 12, 54, 166, 181, 183, 185, 162, 10, 189, 164, 176, 11, 157]"

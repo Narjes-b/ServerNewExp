@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/ssh_hardening/tasks/crypto_hostkeys.yml_(IaC)_,22,0.16467983095048536,"[89, 37, 106, 43, 44, 13, 47, 51, 121, 95]"

@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+ansible-collection-hardening/roles/os_hardening/tasks/user_accounts.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-prometheus/manifests/process_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/init.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/bind_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

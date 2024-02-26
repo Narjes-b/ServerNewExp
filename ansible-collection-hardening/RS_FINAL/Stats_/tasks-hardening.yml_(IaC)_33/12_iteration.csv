@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/ssh_hardening/tasks/hardening.yml_(IaC)_,12,0.22163451451918031,"[34, 41, 42, 74, 77, 14, 84, 52, 23, 89]"

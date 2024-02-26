@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/suid_sgid.yml_(IaC)_,0,0.1899647076990929,"[33, 36, 101, 38, 37, 72, 171, 11, 20, 54, 26]"

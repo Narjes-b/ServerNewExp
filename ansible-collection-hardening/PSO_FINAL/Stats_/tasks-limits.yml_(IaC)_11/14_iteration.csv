@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/limits.yml_(IaC)_,14,0.2356561121014938,"[72, 48, 50, 45, 40, 24, 32, 89, 52, 44]"

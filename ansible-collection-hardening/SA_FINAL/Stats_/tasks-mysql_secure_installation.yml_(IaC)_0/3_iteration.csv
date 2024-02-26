@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/mysql_hardening/tasks/mysql_secure_installation.yml_(IaC)_,3,0.19292289651107197,"[13, 37, 91, 87, 90, 15, 30, 9, 48, 49, 52, 86, 33, 40, 14, 20]"

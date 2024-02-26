@@ -1,0 +1,10 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+ansible-collection-hardening/roles/mysql_hardening/tasks/mysql_secure_installation.yml_(IaC)_,0.1,0.125,0.11111111111111112,1.0,0.1
+ansible-collection-hardening/molecule/mysql_hardening/molecule.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/molecule/nginx_hardening/molecule.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/molecule/os_hardening/molecule.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/molecule/os_hardening_vm/molecule.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/molecule/ssh_hardening/molecule.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/molecule/ssh_hardening_custom_tests/molecule.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/tasks/suid_sgid.yml_(IaC)_,0.1,0.125,0.11111111111111112,1.0,0.16666666666666666
+ansible-collection-hardening/roles/os_hardening/tasks/limits.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

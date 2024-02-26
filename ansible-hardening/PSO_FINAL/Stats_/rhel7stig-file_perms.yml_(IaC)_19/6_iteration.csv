@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-hardening/tasks/rhel7stig/file_perms.yml_(IaC)_,6,0.12278175237234594,"[19, 25, 26, 101, 27, 16, 11, 24, 1, 58]"

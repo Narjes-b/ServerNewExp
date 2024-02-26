@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-prometheus/manifests/memcached_exporter.pp_(IaC)_,22,0.20916445210112133,"[160, 194, 163, 164, 165, 105, 176, 25, 92, 62]"

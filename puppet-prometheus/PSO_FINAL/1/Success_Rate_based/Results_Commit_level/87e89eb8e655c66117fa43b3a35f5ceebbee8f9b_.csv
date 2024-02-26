@@ -1,0 +1,11 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-prometheus/manifests/dellhw_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/daemon.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/nginx_vts_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/openldap_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/bird_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/ipsec_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/openvpn_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/postgres_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/postfix_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/unbound_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

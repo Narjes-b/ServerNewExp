@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-prometheus/manifests/nginx_vts_exporter.pp_(IaC)_,15,0.24891051338519798,"[177, 188, 182, 194, 163, 164, 181, 185, 157, 12, 92, 176, 11, 55, 183, 43, 13]"

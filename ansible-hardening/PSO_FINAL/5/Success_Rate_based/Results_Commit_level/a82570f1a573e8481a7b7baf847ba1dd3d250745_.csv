@@ -1,0 +1,7 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+ansible-hardening/tasks/rhel7stig/auth.yml_(IaC)_,0.2,0.2,0.20000000000000004,1.0,0.3333333333333333
+ansible-hardening/tasks/rhel7stig/rpm.yml_(IaC)_,0.8,0.8,0.8000000000000002,1.0,1.0
+ansible-hardening/tasks/rhel7stig/misc.yml_(IaC)_,0.4,0.4,0.4000000000000001,1.0,1.0
+ansible-hardening/tasks/rhel7stig/file_perms.yml_(IaC)_,0.2,0.2,0.20000000000000004,1.0,0.2
+ansible-hardening/tasks/rhel7stig/zypper.yml_(IaC)_,0.4,0.4,0.4000000000000001,1.0,1.0
+ansible-hardening/tasks/rhel7stig/apt.yml_(IaC)_,0.4,0.4,0.4000000000000001,1.0,1.0

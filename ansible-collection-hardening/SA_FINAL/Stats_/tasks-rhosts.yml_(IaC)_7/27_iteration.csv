@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/rhosts.yml_(IaC)_,27,0.25873135343077835,"[48, 37, 47, 39, 49, 40, 52, 42, 30, 34, 33]"

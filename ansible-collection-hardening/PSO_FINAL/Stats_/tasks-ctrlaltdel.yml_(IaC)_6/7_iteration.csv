@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/ctrlaltdel.yml_(IaC)_,7,0.15063567153451662,"[41, 31, 40, 72, 102, 48, 36, 101, 59, 91]"

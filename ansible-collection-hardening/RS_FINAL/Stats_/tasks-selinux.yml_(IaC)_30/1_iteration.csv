@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/ssh_hardening/tasks/selinux.yml_(IaC)_,1,0.16220027046156604,"[32, 101, 102, 72, 76, 77, 19, 86, 87, 30]"

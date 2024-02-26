@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-hardening/tasks/rhel7stig/async_tasks.yml_(IaC)_,24,0.1367102897867229,"[22, 19, 14, 15, 24, 25, 18, 26, 27, 23, 13, 11, 28, 29, 17, 105, 16]"

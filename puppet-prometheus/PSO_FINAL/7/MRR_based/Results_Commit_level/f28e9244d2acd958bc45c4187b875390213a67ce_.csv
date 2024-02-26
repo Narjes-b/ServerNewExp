@@ -1,0 +1,10 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-prometheus/manifests/process_exporter.pp_(IaC)_,0.14285714285714285,0.125,0.13333333333333333,1.0,0.14285714285714285
+puppet-prometheus/templates/ipmi_exporter.yaml.epp_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/templates/sachet.yaml.epp_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/templates/ssh_exporter.yaml.epp_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/templates/ssl_exporter.yaml.epp_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/scrape_job.pp_(IaC)_,0.14285714285714285,0.125,0.13333333333333333,1.0,0.25
+puppet-prometheus/manifests/config.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/node_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-prometheus/manifests/statsd_exporter.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-hardening/tasks/rhel7stig/yum.yml_(IaC)_,20,0.1103258370280168,"[2, 11, 13, 17, 29, 52, 23, 26, 28, 93]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/netrc.yml_(IaC)_,26,0.16180940856957174,"[32, 33, 34, 37, 45, 47, 23, 125, 30, 95]"

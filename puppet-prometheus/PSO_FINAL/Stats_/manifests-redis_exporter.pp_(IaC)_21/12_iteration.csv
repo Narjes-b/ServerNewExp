@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-prometheus/manifests/redis_exporter.pp_(IaC)_,12,0.32438590593302413,"[183, 181, 172, 176, 163, 157, 166, 185, 148, 92]"

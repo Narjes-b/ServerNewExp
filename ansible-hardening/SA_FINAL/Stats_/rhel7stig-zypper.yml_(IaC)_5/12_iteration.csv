@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-hardening/tasks/rhel7stig/zypper.yml_(IaC)_,12,0.17238164769764008,"[24, 27, 19, 18, 105, 14, 22, 25, 15, 16]"

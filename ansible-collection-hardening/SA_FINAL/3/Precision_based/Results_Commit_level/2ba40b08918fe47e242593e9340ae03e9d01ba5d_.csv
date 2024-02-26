@@ -1,0 +1,7 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+ansible-collection-hardening/roles/os_hardening/tasks/sysctl.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/.github/workflows/ansible-lint.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/vars/Amazon.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/vars/Archlinux.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/vars/Debian.yml_(Other)_,0.0,0.0,0.0,0.0,0.0

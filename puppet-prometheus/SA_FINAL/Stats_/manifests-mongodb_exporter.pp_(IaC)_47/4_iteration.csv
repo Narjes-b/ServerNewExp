@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-prometheus/manifests/mongodb_exporter.pp_(IaC)_,4,0.22249382397275913,"[177, 13, 12, 185, 163, 10, 157, 194, 9, 29, 164, 183, 11]"

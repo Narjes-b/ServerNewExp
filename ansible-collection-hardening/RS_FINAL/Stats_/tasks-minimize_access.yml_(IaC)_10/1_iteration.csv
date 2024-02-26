@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-collection-hardening/roles/os_hardening/tasks/minimize_access.yml_(IaC)_,1,0.1914115827111254,"[33, 42, 43, 12, 47, 50, 53, 118, 90, 95]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-hardening/handlers/main.yml_(IaC)_,4,0.12856988682687684,"[10, 11, 16, 12, 23, 30, 6, 105, 26, 13, 14, 21, 9, 35, 25, 33]"

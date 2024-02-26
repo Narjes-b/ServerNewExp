@@ -1,0 +1,15 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+ansible-collection-hardening/roles/os_hardening/tasks/hardening.yml_(IaC)_,0.3,0.23076923076923078,0.2608695652173913,1.0,0.5
+ansible-collection-hardening/.config/ansible-lint.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+ansible-collection-hardening/roles/os_hardening/tasks/sysctl.yml_(IaC)_,0.3,0.23076923076923078,0.2608695652173913,1.0,0.3333333333333333
+ansible-collection-hardening/roles/os_hardening/tasks/pam.yml_(IaC)_,0.3,0.23076923076923078,0.2608695652173913,1.0,0.5
+ansible-collection-hardening/roles/mysql_hardening/tasks/mysql_secure_installation.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,0.2
+ansible-collection-hardening/roles/os_hardening/tasks/main.yml_(IaC)_,0.3,0.23076923076923078,0.2608695652173913,1.0,0.3333333333333333
+ansible-collection-hardening/roles/os_hardening/tasks/auditd.yml_(IaC)_,0.3,0.23076923076923078,0.2608695652173913,1.0,0.3333333333333333
+ansible-collection-hardening/roles/mysql_hardening/tasks/main.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,0.5
+ansible-collection-hardening/roles/os_hardening/tasks/limits.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,0.3333333333333333
+ansible-collection-hardening/roles/os_hardening/tasks/pam_debian.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,1.0
+ansible-collection-hardening/roles/ssh_hardening/tasks/selinux.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,0.25
+ansible-collection-hardening/roles/os_hardening/tasks/user_accounts.yml_(IaC)_,0.3,0.23076923076923078,0.2608695652173913,1.0,0.5
+ansible-collection-hardening/roles/os_hardening/handlers/main.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,0.5
+ansible-collection-hardening/roles/ssh_hardening/tasks/main.yml_(IaC)_,0.2,0.15384615384615385,0.17391304347826086,1.0,0.25

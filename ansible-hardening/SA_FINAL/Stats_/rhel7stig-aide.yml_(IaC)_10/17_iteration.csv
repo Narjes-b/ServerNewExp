@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+ansible-hardening/tasks/rhel7stig/aide.yml_(IaC)_,17,0.14217745658914532,"[17, 25, 15, 21, 14, 20, 103, 13, 23, 105, 19, 22, 16, 29, 27, 26, 12]"
