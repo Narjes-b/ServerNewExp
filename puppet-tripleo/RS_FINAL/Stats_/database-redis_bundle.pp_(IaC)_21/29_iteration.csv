@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/pacemaker/database/redis_bundle.pp_(IaC)_,29,0.12741266477604524,"[223, 236, 206, 271, 622, 340, 213, 406, 311, 127]"

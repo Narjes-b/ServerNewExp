@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/logging/logrotate.pp_(IaC)_,3,0.09157464093338527,"[123, 242, 228, 397, 243, 20, 86, 50, 135, 188, 76, 87, 635, 398, 334, 392, 571, 355, 553]"

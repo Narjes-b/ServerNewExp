@@ -1,0 +1,9 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/network/manifests/print_config.pp_(IaC)_,0.14285714285714285,0.14285714285714285,0.14285714285714285,1.0,1.0
+puppet-hpc/puppet-config/modules/network/lib/hpc_network.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/network/lib/puppet/parser/functions/hpc_network_implicit_ifaces.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/network/templates/ifcfg.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/network/manifests/params.pp_(IaC)_,0.14285714285714285,0.14285714285714285,0.14285714285714285,1.0,1.0
+puppet-hpc/puppet-config/modules/network/manifests/config.pp_(IaC)_,0.2857142857142857,0.2857142857142857,0.2857142857142857,1.0,1.0
+puppet-hpc/puppet-config/modules/network/manifests/service.pp_(IaC)_,0.2857142857142857,0.2857142857142857,0.2857142857142857,1.0,1.0
+puppet-hpc/puppet-config/modules/network/manifests/init.pp_(IaC)_,0.14285714285714285,0.14285714285714285,0.14285714285714285,1.0,1.0

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/feature/syslog.pp_(IaC)_,14,0.2690993251253424,"[128, 140, 142, 138, 134, 141, 130, 146, 137, 139, 135, 129, 144, 132]"

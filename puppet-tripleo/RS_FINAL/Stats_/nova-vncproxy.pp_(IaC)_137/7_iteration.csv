@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/nova/vncproxy.pp_(IaC)_,7,0.12867310054310208,"[257, 227, 295, 361, 75, 175, 242, 214, 374, 607]"

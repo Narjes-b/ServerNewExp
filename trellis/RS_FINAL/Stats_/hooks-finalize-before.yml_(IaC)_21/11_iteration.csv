@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/deploy/hooks/finalize-before.yml_(IaC)_,11,0.09709535654793028,"[68, 71, 72, 77, 112, 146, 52, 24, 28, 94]"

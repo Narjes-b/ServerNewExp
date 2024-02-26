@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+infra/roles/ktz-sanoid/tasks/main.yaml_(IaC)_,14,0.12396524916117335,"[35, 45, 46, 79, 82, 51, 21, 22, 60, 31]"

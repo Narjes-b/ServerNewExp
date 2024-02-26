@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/tls_proxy.pp_(IaC)_,4,0.11035147103873065,"[206, 286, 387, 348, 567, 204, 2, 46, 324, 514, 496, 579]"

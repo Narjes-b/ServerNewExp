@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/feature/statusdata.pp_(IaC)_,30,0.2625639279266113,"[128, 138, 139, 142, 135, 132, 146, 133, 134, 137, 141, 140, 130, 136, 144, 143, 100, 129, 46]"

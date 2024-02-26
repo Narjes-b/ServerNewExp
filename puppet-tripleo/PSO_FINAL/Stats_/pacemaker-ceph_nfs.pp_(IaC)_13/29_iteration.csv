@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/pacemaker/ceph_nfs.pp_(IaC)_,29,0.09830756239252182,"[261, 218, 330, 285, 256, 313, 212, 391, 331, 30]"

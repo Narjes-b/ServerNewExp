@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/common/tasks/disable_challenge_sites.yml_(IaC)_,17,0.07937229387382883,"[32, 33, 69, 39, 107, 142, 114, 55, 57, 126]"

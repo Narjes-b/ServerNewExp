@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/feature/influxdb2.pp_(IaC)_,12,0.16952528326833533,"[139, 143, 129, 145, 130, 133, 142, 126, 127, 144, 134, 138, 132, 136]"

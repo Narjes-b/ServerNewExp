@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/rabbitmq.pp_(IaC)_,11,0.15008562954810706,"[37, 41, 42, 78, 47, 79, 50, 21, 53, 59]"

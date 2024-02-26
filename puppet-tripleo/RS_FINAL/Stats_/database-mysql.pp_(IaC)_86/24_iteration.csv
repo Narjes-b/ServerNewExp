@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/database/mysql.pp_(IaC)_,24,0.17274352370156887,"[228, 359, 105, 204, 333, 462, 398, 80, 404, 505]"

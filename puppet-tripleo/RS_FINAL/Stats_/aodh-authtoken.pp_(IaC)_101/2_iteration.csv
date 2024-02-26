@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/aodh/authtoken.pp_(IaC)_,2,0.17757408467993696,"[256, 299, 398, 303, 560, 306, 284, 316, 377, 604]"

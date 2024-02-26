@@ -1,0 +1,5 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/singularity/manifests/params.pp_(IaC)_,0.4,0.6666666666666666,0.5,1.0,1.0
+puppet-hpc/puppet-config/modules/singularity/files/init_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/singularity/manifests/config.pp_(IaC)_,0.2,0.3333333333333333,0.25,1.0,1.0
+puppet-hpc/puppet-config/modules/singularity/manifests/init.pp_(IaC)_,0.2,0.3333333333333333,0.25,1.0,1.0

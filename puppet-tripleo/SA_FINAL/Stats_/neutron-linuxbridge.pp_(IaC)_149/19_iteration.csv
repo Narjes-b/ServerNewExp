@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/linuxbridge.pp_(IaC)_,19,0.11717932130776976,"[350, 98, 66, 65, 79, 459, 543, 611, 631, 358]"

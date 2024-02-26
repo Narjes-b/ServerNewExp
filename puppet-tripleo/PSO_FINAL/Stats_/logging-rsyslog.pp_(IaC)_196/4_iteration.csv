@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/logging/rsyslog.pp_(IaC)_,4,0.1350378724415023,"[251, 232, 315, 317, 226, 294, 256, 277, 329, 250]"

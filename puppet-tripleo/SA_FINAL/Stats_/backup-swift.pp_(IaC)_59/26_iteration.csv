@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/cinder/backup/swift.pp_(IaC)_,26,0.18199668803545585,"[260, 253, 259, 132, 47, 591, 117, 389, 29, 74, 45, 568, 358, 71]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/metrics/collectd/sensubility.pp_(IaC)_,7,0.1211487262496396,"[271, 284, 226, 307, 330, 277, 223, 217, 313, 552]"

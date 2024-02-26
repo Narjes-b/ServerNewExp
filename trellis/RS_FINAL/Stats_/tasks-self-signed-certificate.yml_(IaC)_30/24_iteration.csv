@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/wordpress-setup/tasks/self-signed-certificate.yml_(IaC)_,24,0.12805853796951272,"[32, 121, 98, 43, 142, 17, 89, 31, 61, 127]"

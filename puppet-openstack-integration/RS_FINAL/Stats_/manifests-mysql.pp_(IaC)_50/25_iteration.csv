@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/mysql.pp_(IaC)_,25,0.14252331128280443,"[64, 67, 40, 42, 46, 47, 80, 50, 58, 61]"

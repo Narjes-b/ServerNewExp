@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/plugins/opencontrail.pp_(IaC)_,26,0.15135347488292805,"[348, 310, 349, 226, 303, 396, 139, 343, 505, 556]"

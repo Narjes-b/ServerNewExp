@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/designate/sink.pp_(IaC)_,1,0.13580833146903112,"[324, 344, 246, 242, 226, 302, 260, 347, 340, 405]"

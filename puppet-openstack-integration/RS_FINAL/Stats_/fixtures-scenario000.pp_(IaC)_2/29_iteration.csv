@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/fixtures/scenario000.pp_(IaC)_,29,0.14172161523669352,"[32, 34, 36, 37, 46, 49, 55, 87, 28, 31]"

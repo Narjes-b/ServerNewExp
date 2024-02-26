@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/ceilometer.pp_(IaC)_,0.1,1.0,0.18181818181818182,1.0,0.125
+puppet-tripleo/spec/classes/tripleo_profile_base_ceilometer_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/plugins/ml2/networking_baremetal.pp_(IaC)_,18,0.14236871796780037,"[353, 370, 40, 377, 347, 363, 326, 355, 281, 510]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/glance.pp_(IaC)_,5,0.242685765659447,"[48, 79, 78, 50, 44, 42, 73, 40, 46, 52]"

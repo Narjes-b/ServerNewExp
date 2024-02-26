@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/ceph.pp_(IaC)_,1,0.1255994260267871,"[64, 66, 68, 71, 39, 42, 77, 48, 59, 63]"

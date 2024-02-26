@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/trove.pp_(IaC)_,12,0.21346321965454718,"[42, 46, 64, 48, 58, 55, 71, 60, 11, 77]"

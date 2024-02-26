@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/ceilometer.pp_(IaC)_,2,0.2332292633808754,"[316, 391, 305, 252, 227, 115, 248, 82, 20, 525, 334, 387, 598, 517]"

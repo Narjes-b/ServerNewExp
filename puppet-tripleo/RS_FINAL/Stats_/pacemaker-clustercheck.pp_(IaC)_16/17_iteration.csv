@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/pacemaker/clustercheck.pp_(IaC)_,17,0.08472572333777934,"[256, 358, 296, 330, 299, 243, 374, 56, 606, 575]"

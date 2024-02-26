@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/nginx/tasks/main.yml_(IaC)_,26,0.17415938345068155,"[96, 40, 75, 81, 50, 150, 56, 122, 158, 127]"

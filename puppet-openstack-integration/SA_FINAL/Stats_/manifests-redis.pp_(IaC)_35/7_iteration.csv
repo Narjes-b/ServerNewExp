@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/redis.pp_(IaC)_,7,0.15668384451660403,"[49, 58, 71, 66, 52, 67, 81, 64, 72, 63, 69, 48]"

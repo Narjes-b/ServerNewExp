@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/wrappers/haproxy.pp_(IaC)_,17,0.13748827182308132,"[352, 363, 364, 427, 241, 564, 597, 85, 213, 283]"

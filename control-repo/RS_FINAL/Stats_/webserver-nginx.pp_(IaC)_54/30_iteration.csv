@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+control-repo/site-modules/profile/manifests/app/webserver/nginx.pp_(IaC)_,30,0.23494748867630091,"[65, 70, 71, 73, 110, 111, 51, 117, 56, 61]"

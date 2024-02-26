@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/pacemaker/instance_ha.pp_(IaC)_,16,0.11565263375810403,"[359, 295, 361, 299, 235, 334, 338, 403, 148, 86]"

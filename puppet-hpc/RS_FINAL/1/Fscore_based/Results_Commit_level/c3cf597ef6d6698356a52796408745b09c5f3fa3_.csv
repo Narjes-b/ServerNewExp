@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/cce/manifests/params.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/cce/templates/cce_conf.erb_(Other)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/murano.pp_(IaC)_,4,0.18784927380355199,"[48, 64, 50, 57, 78, 80, 42, 55, 49, 58, 74, 79, 71, 52, 45, 70, 73, 51, 46, 69]"

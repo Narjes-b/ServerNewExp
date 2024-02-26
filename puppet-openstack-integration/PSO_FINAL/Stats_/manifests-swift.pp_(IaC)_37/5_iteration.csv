@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/swift.pp_(IaC)_,5,0.14647190090787798,"[42, 57, 79, 39, 67, 48, 37, 61, 70, 16]"

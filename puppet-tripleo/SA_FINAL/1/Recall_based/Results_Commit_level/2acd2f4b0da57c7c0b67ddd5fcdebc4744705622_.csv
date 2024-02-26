@@ -1,0 +1,10 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/designate/central.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/designate/api.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/designate/authtoken.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/designate/sink.pp_(IaC)_,1.0,0.1111111111111111,0.19999999999999998,1.0,1.0
+puppet-tripleo/manifests/profile/base/designate/producer.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/designate.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/designate/backend.pp_(IaC)_,1.0,0.1111111111111111,0.19999999999999998,1.0,1.0
+puppet-tripleo/manifests/profile/base/designate/worker.pp_(IaC)_,1.0,0.1111111111111111,0.19999999999999998,1.0,1.0
+puppet-tripleo/manifests/profile/base/designate/mdns.pp_(IaC)_,1.0,0.1111111111111111,0.19999999999999998,1.0,1.0

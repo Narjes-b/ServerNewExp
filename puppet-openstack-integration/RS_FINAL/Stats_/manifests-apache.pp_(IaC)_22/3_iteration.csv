@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/apache.pp_(IaC)_,3,0.11574998344373902,"[64, 66, 71, 73, 45, 48, 81, 57, 61, 63]"

@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/manila/share.pp_(IaC)_,0.4,0.5,0.4444444444444445,1.0,1.0
+puppet-tripleo/manifests/profile/base/manila.pp_(IaC)_,0.4,0.5,0.4444444444444445,1.0,1.0
+puppet-tripleo/manifests/profile/base/manila/api.pp_(IaC)_,0.2,0.25,0.22222222222222224,1.0,0.25
+puppet-tripleo/manifests/profile/base/manila/authtoken.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/manila/scheduler.pp_(IaC)_,0.2,0.25,0.22222222222222224,1.0,0.3333333333333333

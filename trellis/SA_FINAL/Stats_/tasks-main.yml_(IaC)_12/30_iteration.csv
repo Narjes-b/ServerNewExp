@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/sshd/tasks/main.yml_(IaC)_,30,0.211539581575164,"[57, 62, 121, 107, 103, 63, 114, 81, 66, 50, 46]"

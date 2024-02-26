@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/wordpress-install/tasks/composer-authentications.yml_(IaC)_,10,0.09938280921923494,"[32, 77, 142, 79, 92, 146, 88, 57, 60, 93]"

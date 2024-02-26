@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/nova/migration/client.pp_(IaC)_,17,0.12369788976493978,"[80, 346, 261, 241, 235, 440, 238, 256, 296, 127]"

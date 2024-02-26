@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/object/servicegroup.pp_(IaC)_,20,0.2417581796850366,"[100, 109, 110, 128, 116, 124, 134, 27, 6, 87]"

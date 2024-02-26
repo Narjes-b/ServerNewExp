@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/metrics/collectd.pp_(IaC)_,8,0.1568852212555435,"[228, 282, 280, 251, 285, 281, 283, 227, 277, 278, 249, 150, 12, 47, 305, 13, 550, 508, 391]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/cinder/backup/gcs.pp_(IaC)_,28,0.10807130590757973,"[224, 259, 261, 297, 74, 655, 336, 305, 274, 146, 19, 283]"

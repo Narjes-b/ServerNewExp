@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/octavia/authtoken.pp_(IaC)_,27,0.1940896674618451,"[256, 325, 391, 232, 522, 622, 302, 241, 308, 348]"

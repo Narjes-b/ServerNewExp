@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/wordpress-install/tasks/dotenv.yml_(IaC)_,9,0.12898061317279683,"[31, 43, 93, 143, 142, 46, 57, 121, 49, 53]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/tempest.pp_(IaC)_,9,0.16695908630860043,"[42, 49, 55, 68, 78, 32, 48, 36, 37, 76, 79, 39, 57, 3, 65, 54]"

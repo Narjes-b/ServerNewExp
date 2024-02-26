@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/fail2ban/tasks/main.yml_(IaC)_,7,0.22994833607053766,"[40, 62, 81, 103, 46, 87, 82, 50, 107, 57, 121, 114]"

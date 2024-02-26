@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/glance/netapp.pp_(IaC)_,4,0.09982699166363664,"[257, 385, 387, 354, 389, 391, 236, 368, 369, 119, 250]"

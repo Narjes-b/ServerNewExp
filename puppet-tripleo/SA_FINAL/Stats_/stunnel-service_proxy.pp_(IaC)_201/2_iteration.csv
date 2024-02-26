@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/stunnel/service_proxy.pp_(IaC)_,2,0.11365864425951898,"[210, 286, 404, 209, 402, 514, 206, 200, 2, 387]"

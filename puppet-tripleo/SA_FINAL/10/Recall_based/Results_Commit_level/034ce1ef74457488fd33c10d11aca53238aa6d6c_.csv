@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/ceilometer.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/ceilometer/agent/polling.pp_(IaC)_,0.1,0.5,0.16666666666666669,1.0,1.0
+puppet-tripleo/manifests/profile/base/ceilometer/agent/notification.pp_(IaC)_,0.2,1.0,0.33333333333333337,1.0,0.5

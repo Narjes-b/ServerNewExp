@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/config/fragment.pp_(IaC)_,3,0.15834992812444398,"[100, 125, 143, 109, 136, 137, 118, 4, 138, 139]"

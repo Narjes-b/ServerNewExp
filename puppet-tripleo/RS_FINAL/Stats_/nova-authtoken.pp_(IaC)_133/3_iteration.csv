@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/nova/authtoken.pp_(IaC)_,3,0.18842978708433167,"[384, 256, 322, 355, 546, 321, 294, 390, 360, 600, 89, 444]"

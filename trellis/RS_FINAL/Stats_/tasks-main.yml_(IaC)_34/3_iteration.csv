@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/memcached/tasks/main.yml_(IaC)_,3,0.15379115681585964,"[103, 40, 45, 114, 50, 150, 89, 155, 62, 127]"

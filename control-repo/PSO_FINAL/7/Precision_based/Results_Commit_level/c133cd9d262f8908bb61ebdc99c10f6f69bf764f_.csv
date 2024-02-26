@@ -1,0 +1,15 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+control-repo/manifests/site.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+control-repo/Puppetfile_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/hiera.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/combine_reports.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/get_running_stage.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/pipeline_stage_done.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_impact_analysis.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_impacted_nodes.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_pipeline_stage.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_scm_data.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/servicenow_change_request.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/profile/manifests/platform/baseline/linux/packages.pp_(IaC)_,0.14285714285714285,0.07142857142857142,0.09523809523809523,1.0,0.25
+control-repo/site-modules/profile/manifests/platform/baseline/windows/packages.pp_(IaC)_,0.14285714285714285,0.07142857142857142,0.09523809523809523,1.0,1.0
+control-repo/site-modules/profile/manifests/platform/baseline.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

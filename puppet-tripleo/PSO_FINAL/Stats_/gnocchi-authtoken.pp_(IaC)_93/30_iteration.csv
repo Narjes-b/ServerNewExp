@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/gnocchi/authtoken.pp_(IaC)_,30,0.19204136515301962,"[325, 218, 355, 331, 302, 334, 573, 571, 577, 383]"

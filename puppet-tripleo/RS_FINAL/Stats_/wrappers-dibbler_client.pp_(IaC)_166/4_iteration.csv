@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/wrappers/dibbler_client.pp_(IaC)_,4,0.12633814184392617,"[227, 356, 364, 365, 110, 625, 276, 244, 405, 63]"

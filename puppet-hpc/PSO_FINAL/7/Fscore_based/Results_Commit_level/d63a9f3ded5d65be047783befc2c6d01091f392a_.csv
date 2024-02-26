@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/boothttp/manifests/install.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/boothttp/templates/install_config.rhel6.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/boothttp/manifests/params.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

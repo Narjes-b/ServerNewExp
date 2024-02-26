@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/glance/backend/swift.pp_(IaC)_,22,0.11353885505782361,"[391, 236, 388, 292, 305, 69, 269, 335, 374, 653]"

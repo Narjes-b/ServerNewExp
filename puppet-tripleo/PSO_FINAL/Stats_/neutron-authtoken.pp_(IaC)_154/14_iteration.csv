@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/authtoken.pp_(IaC)_,14,0.24211973479731508,"[392, 384, 306, 251, 249, 325, 294, 314, 38, 595]"

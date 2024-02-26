@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-openstack-integration/manifests/mistral.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.5
+puppet-openstack-integration/manifests/zaqar.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.14285714285714285
+puppet-openstack-integration/manifests/murano.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.3333333333333333
+puppet-openstack-integration/manifests/barbican.pp_(IaC)_,0.2857142857142857,0.5,0.36363636363636365,1.0,0.16666666666666666
+puppet-openstack-integration/manifests/ec2api.pp_(IaC)_,0.2857142857142857,0.5,0.36363636363636365,1.0,0.5

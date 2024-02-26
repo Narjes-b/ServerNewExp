@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/vitrage.pp_(IaC)_,24,0.1834952733439637,"[45, 55, 57, 74, 70, 78, 61, 32, 56, 64]"

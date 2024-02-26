@@ -1,0 +1,5 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/opa/manifests/config.pp_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,1.0
+puppet-hpc/puppet-config/modules/opa/manifests/params.pp_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,1.0
+puppet-hpc/puppet-config/modules/opa/manifests/init.pp_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.25
+puppet-hpc/puppet-config/modules/opa/manifests/service.pp_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.16666666666666666

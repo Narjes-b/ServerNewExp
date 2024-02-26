@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/cinder.pp_(IaC)_,2,0.22773517351338682,"[64, 37, 70, 73, 74, 46, 47, 49, 54, 61]"

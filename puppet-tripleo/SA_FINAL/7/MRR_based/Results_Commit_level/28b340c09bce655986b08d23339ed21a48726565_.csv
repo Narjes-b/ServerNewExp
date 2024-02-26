@@ -1,0 +1,8 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/octavia/housekeeping.pp_(IaC)_,0.5714285714285714,0.6666666666666666,0.6153846153846153,1.0,1.0
+puppet-tripleo/manifests/profile/base/octavia/api.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/octavia.pp_(IaC)_,0.14285714285714285,0.16666666666666666,0.15384615384615383,1.0,0.25
+puppet-tripleo/manifests/profile/base/octavia/health_manager.pp_(IaC)_,0.42857142857142855,0.5,0.4615384615384615,1.0,1.0
+puppet-tripleo/manifests/profile/base/octavia/authtoken.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/base/octavia/provider/ovn.pp_(IaC)_,0.42857142857142855,0.5,0.4615384615384615,1.0,0.3333333333333333
+puppet-tripleo/manifests/profile/base/octavia/worker.pp_(IaC)_,0.2857142857142857,0.3333333333333333,0.30769230769230765,1.0,1.0

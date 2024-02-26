@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/examples/init_worker_validate.pp_(IaC)_,5,0.0996290087531483,"[70, 80, 61, 56, 60, 65, 27, 58, 74, 144]"

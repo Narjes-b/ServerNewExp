@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/hpc_crontabs/manifests/params.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/hpc_crontabs/manifests/init.pp_(IaC)_,0.3333333333333333,0.5,0.4,1.0,0.3333333333333333
+puppet-hpc/puppet-config/modules/hpc_crontabs/manifests/install.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

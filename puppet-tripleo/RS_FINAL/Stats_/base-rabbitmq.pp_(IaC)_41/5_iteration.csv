@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/rabbitmq.pp_(IaC)_,5,0.15070530250616776,"[322, 228, 300, 251, 307, 504, 346, 347, 94, 159]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+infra/roles/ktz-caddy/tasks/install.yaml_(IaC)_,29,0.1163007032309362,"[45, 73, 63, 67, 42, 68, 102, 48, 82, 31]"

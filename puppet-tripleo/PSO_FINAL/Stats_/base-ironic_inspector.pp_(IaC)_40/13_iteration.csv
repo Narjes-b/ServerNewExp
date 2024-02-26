@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/ironic_inspector.pp_(IaC)_,13,0.14521129531378468,"[233, 251, 330, 387, 246, 248, 291, 536, 224, 223]"

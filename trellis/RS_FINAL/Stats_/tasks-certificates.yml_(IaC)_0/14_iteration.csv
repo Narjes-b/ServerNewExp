@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/letsencrypt/tasks/certificates.yml_(IaC)_,14,0.14544839928378672,"[32, 33, 34, 3, 36, 40, 74, 45, 78, 89, 122]"

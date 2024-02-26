@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/letsencrypt/tasks/nginx.yml_(IaC)_,7,0.17082571844466138,"[33, 36, 103, 72, 74, 81, 88, 121, 93, 95]"

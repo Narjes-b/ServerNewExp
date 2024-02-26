@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/barbican/authtoken.pp_(IaC)_,21,0.2221981616107746,"[401, 284, 380, 299, 392, 267, 287, 100, 256, 605]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/nova/compute_libvirt_shared.pp_(IaC)_,16,0.13044917225931338,"[293, 391, 301, 237, 303, 336, 305, 213, 600, 350, 159]"

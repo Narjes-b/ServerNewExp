@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/ec2api.pp_(IaC)_,7,0.16303154490206692,"[50, 73, 80, 40, 46, 58, 55, 71, 38, 42]"

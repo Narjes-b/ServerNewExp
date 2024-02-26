@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/barbican/backends.pp_(IaC)_,13,0.14348656709329574,"[256, 348, 252, 233, 340, 99, 354, 369, 301, 293]"

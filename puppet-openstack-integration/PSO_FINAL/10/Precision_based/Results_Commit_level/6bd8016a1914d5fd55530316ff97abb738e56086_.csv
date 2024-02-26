@@ -1,0 +1,5 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-openstack-integration/manifests/tempest.pp_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,1.0
+puppet-openstack-integration/run_tests.sh_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-openstack-integration/manifests/glance.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-openstack-integration/fixtures/scenario002.pp_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.25

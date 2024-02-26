@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/swift/dispersion.pp_(IaC)_,13,0.13831103685101026,"[234, 247, 397, 359, 392, 321, 388, 237, 100, 228]"

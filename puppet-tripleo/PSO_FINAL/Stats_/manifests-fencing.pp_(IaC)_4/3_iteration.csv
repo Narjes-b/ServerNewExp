@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/fencing.pp_(IaC)_,3,0.08124847736744831,"[202, 216, 204, 214, 207, 246, 347, 232, 559, 396]"

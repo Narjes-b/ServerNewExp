@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/mariadb/tasks/main.yml_(IaC)_,17,0.22762635373778597,"[50, 62, 58, 121, 60, 81, 57, 103, 32, 43, 107, 114, 46, 40]"

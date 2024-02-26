@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/sfc.pp_(IaC)_,11,0.14886698418903807,"[234, 203, 358, 369, 359, 354, 380, 422, 273, 331]"

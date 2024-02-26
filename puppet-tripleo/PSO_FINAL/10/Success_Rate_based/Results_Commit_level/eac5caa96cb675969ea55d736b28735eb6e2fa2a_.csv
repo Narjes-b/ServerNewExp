@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/rabbitmq.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/pacemaker/database/mysql_bundle.pp_(IaC)_,0.1,0.25,0.14285714285714288,1.0,0.3333333333333333
+puppet-tripleo/manifests/profile/pacemaker/ovn_dbs_bundle.pp_(IaC)_,0.1,0.25,0.14285714285714288,1.0,1.0
+puppet-tripleo/manifests/profile/base/designate/backend.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/manifests/profile/pacemaker/rabbitmq_bundle.pp_(IaC)_,0.1,0.25,0.14285714285714288,1.0,0.25

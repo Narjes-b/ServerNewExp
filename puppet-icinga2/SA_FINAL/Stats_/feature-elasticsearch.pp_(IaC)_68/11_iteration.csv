@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/feature/elasticsearch.pp_(IaC)_,11,0.18608525367693202,"[126, 134, 144, 137, 133, 143, 129, 142, 136, 139, 127, 145, 132, 141, 130, 140]"

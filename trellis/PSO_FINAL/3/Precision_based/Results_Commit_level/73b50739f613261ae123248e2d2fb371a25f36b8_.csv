@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+trellis/roles/fail2ban/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+trellis/group_vars/all/security.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+trellis/roles/fail2ban/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+trellis/roles/fail2ban/templates/filters/wordpress-wp-login.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+trellis/roles/fail2ban/templates/filters/wordpress-xmlrpc.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,11 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+secure_windows/manifests/init.pp_(IaC)_,0.2,0.1,0.13333333333333333,1.0,0.25
+secure_windows/data/module.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/examples/applocker.xml_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/examples/powershell.rb.old_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/examples/test.pp_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/lib/facter/database_log_files.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/lib/facter/domain_sid.rb.bk_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/lib/facter/ntds_parameters.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/lib/facter/windows_domaincontroller.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+secure_windows/manifests/stig/v73405.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0

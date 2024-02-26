@@ -1,0 +1,14 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/pacemaker/database/mysql_bundle.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/haproxy_bundle.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/cinder/volume_bundle.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,0.5
+puppet-tripleo/manifests/profile/pacemaker/ovn_northd.pp_(IaC)_,0.2,0.08333333333333333,0.11764705882352941,1.0,0.3333333333333333
+puppet-tripleo/manifests/pacemaker/haproxy_with_vip.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/manila/share_bundle.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/clustercheck.pp_(IaC)_,0.2,0.08333333333333333,0.11764705882352941,1.0,0.3333333333333333
+puppet-tripleo/manifests/profile/pacemaker/database/redis_bundle.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/cinder/backup_bundle.pp_(IaC)_,0.4,0.16666666666666666,0.23529411764705882,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/ceph_nfs.pp_(IaC)_,0.2,0.08333333333333333,0.11764705882352941,1.0,0.3333333333333333
+puppet-tripleo/manifests/profile/pacemaker/compute_instanceha.pp_(IaC)_,0.2,0.08333333333333333,0.11764705882352941,1.0,0.5
+puppet-tripleo/manifests/profile/pacemaker/ovn_dbs_bundle.pp_(IaC)_,0.6,0.25,0.35294117647058826,1.0,1.0
+puppet-tripleo/manifests/profile/pacemaker/rabbitmq_bundle.pp_(IaC)_,0.6,0.25,0.35294117647058826,1.0,1.0

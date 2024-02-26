@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/object/scheduleddowntime.pp_(IaC)_,15,0.23635408890243514,"[120, 124, 137, 108, 118, 123, 110, 144, 116, 83, 80]"

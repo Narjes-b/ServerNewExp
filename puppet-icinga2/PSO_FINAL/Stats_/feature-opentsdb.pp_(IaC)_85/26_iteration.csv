@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/feature/opentsdb.pp_(IaC)_,26,0.2162707934922879,"[127, 128, 135, 140, 131, 142, 130, 104, 100, 48, 23]"

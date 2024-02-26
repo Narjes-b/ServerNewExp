@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/nova.pp_(IaC)_,11,0.2567377305592694,"[73, 79, 80, 57, 76, 64, 39, 40, 70, 66]"

@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/cinder/volume/pure.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/releasenotes/notes/pure_storage_update_cinder_params-94940d1d3ca46877.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0

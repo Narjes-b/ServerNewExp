@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/feature/idopgsql.pp_(IaC)_,1,0.26964991137107497,"[129, 140, 142, 128, 139, 141, 136, 137, 134, 130, 133, 143, 144, 138]"

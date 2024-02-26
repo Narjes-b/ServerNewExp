@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/gnocchi/api.pp_(IaC)_,10,0.18814717547033893,"[294, 37, 286, 391, 394, 250, 638, 315, 52, 80]"

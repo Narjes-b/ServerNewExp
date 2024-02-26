@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/object/checkresultreader.pp_(IaC)_,15,0.18520362797734619,"[100, 101, 106, 109, 142, 111, 143, 117, 152, 126]"

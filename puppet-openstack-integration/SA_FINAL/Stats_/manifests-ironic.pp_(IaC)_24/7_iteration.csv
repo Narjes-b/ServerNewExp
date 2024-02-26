@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/ironic.pp_(IaC)_,7,0.25234023150026125,"[46, 49, 58, 57, 42, 79, 78, 55, 48, 74, 64, 73]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/examples/init_package_idomysql.pp_(IaC)_,10,0.16095282913708595,"[60, 75, 65, 57, 71, 74, 79, 68, 55, 69]"

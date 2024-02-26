@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/wordpress-setup/tasks/nginx.yml_(IaC)_,10,0.20998909256134557,"[96, 31, 92, 137, 74, 88, 140, 50, 91, 93, 89, 121, 141, 142, 32]"

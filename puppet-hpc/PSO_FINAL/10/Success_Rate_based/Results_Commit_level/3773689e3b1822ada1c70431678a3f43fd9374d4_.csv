@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/environment/manifests/init.pp_(IaC)_,0.1,0.25,0.14285714285714288,1.0,0.3333333333333333
+puppet-hpc/puppet-config/modules/environment/templates/010_aliases.sh.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/environment/templates/010_env_variables.sh.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-hpc/puppet-config/modules/environment/manifests/config.pp_(IaC)_,0.2,0.5,0.28571428571428575,1.0,1.0
+puppet-hpc/puppet-config/modules/environment/manifests/params.pp_(IaC)_,0.2,0.5,0.28571428571428575,1.0,1.0

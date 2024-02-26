@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/neutron.pp_(IaC)_,7,0.21632182954097756,"[65, 76, 78, 79, 80, 52, 55, 87, 23, 58]"

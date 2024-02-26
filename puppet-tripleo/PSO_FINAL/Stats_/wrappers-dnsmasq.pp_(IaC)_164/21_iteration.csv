@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/neutron/wrappers/dnsmasq.pp_(IaC)_,21,0.14126655657566847,"[359, 366, 191, 360, 356, 256, 394, 198, 305, 255, 105]"

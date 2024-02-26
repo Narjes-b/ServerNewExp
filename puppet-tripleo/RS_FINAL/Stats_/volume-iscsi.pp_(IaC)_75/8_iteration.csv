@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/cinder/volume/iscsi.pp_(IaC)_,8,0.13087512152380007,"[227, 357, 266, 304, 274, 83, 339, 375, 570, 507]"

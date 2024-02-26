@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/nova/virtlogd_wrapper.pp_(IaC)_,3,0.1002468302926371,"[306, 363, 338, 368, 395, 308, 297, 253, 317, 59]"

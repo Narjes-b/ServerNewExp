@@ -1,0 +1,13 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+control-repo/site-modules/role/manifests/panos.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+control-repo/.github/workflows/master.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/.github/workflows/onceover.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/.rubocop.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/combine_reports.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/get_running_stage.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/pipeline_stage_done.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_impact_analysis.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_impacted_nodes.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_pipeline_stage.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/report_scm_data.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+control-repo/site-modules/deployments/lib/puppet/functions/deployments/servicenow_change_request.rb_(Other)_,0.0,0.0,0.0,0.0,0.0

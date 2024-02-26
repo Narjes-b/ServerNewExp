@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/octavia/housekeeping.pp_(IaC)_,0.2857142857142857,1.0,0.4444444444444445,1.0,0.5
+puppet-tripleo/manifests/profile/base/octavia/health_manager.pp_(IaC)_,0.14285714285714285,0.5,0.22222222222222224,1.0,0.5
+puppet-tripleo/manifests/profile/base/octavia/worker.pp_(IaC)_,0.14285714285714285,0.5,0.22222222222222224,1.0,0.14285714285714285

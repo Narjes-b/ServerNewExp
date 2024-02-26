@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/profile/base/neutron/plugins/ml2.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/spec/classes/tripleo_profile_base_neutron_agents_bigswitch_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0

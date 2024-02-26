@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/ironic_inspector/authtoken.pp_(IaC)_,24,0.22009026812979246,"[256, 355, 392, 384, 334, 299, 85, 51, 24, 120, 121, 532, 401, 600, 575]"

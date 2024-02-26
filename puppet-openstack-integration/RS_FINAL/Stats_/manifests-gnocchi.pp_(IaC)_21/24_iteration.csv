@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-openstack-integration/manifests/gnocchi.pp_(IaC)_,24,0.17661230730883745,"[64, 71, 73, 42, 78, 53, 55, 56, 57, 62]"

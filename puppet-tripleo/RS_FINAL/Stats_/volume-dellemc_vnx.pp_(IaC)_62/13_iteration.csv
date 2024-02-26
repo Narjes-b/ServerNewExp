@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/cinder/volume/dellemc_vnx.pp_(IaC)_,13,0.1336650150273703,"[163, 265, 267, 334, 335, 270, 532, 25, 379, 284]"

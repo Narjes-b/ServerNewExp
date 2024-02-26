@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/haproxy/stats.pp_(IaC)_,7,0.09872960539991021,"[406, 249, 403, 390, 252, 321, 332, 397, 334, 474]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+trellis/roles/wordpress-setup/tasks/nginx-client-cert.yml_(IaC)_,27,0.07504257204023357,"[141, 89, 59, 121, 126, 96, 63, 81, 78, 156]"

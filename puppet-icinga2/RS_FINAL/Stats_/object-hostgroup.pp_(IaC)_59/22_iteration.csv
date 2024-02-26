@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/object/hostgroup.pp_(IaC)_,22,0.20898363025510674,"[100, 133, 134, 138, 110, 113, 121, 122, 158, 30]"

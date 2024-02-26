@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-icinga2/manifests/object/timeperiod.pp_(IaC)_,2,0.22135011582889325,"[112, 122, 133, 76, 121, 123, 111, 128, 11, 102]"

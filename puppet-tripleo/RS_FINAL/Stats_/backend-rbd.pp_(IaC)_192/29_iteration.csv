@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/glance/backend/rbd.pp_(IaC)_,29,0.11197239038388973,"[228, 293, 390, 229, 457, 394, 140, 269, 335, 158]"

@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-hpc/puppet-config/modules/infiniband/manifests/params.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.25
+puppet-hpc/puppet-config/modules/infiniband/manifests/service.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.5
+puppet-hpc/puppet-config/modules/infiniband/manifests/install.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.25
+puppet-hpc/puppet-config/modules/infiniband/manifests/config.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.16666666666666666
+puppet-hpc/puppet-config/modules/infiniband/manifests/init.pp_(IaC)_,0.14285714285714285,0.25,0.18181818181818182,1.0,0.5

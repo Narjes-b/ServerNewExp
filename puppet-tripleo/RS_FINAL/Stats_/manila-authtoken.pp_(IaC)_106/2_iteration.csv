@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/manila/authtoken.pp_(IaC)_,2,0.1838186377374814,"[384, 387, 294, 296, 393, 394, 392, 268, 303, 272, 56, 24, 346, 190]"

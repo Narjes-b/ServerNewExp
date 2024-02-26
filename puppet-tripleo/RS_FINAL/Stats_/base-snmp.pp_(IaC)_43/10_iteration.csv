@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+puppet-tripleo/manifests/profile/base/snmp.pp_(IaC)_,10,0.12076997062649486,"[224, 358, 268, 397, 240, 304, 307, 535, 152, 508]"

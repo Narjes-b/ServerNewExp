@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tripleo/manifests/haproxy.pp_(IaC)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/releasenotes/notes/haproxy-remove-activate_httplog-87325732ab9ca721.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tripleo/spec/classes/tripleo_haproxy_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
