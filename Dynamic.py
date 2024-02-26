@@ -361,7 +361,7 @@ def main():
 
 
 if __name__ == "__main__":
-    projects = ['eyp-systemd']
+    projects = ['puppet-tripleo']
     Algo = 'Dynamic'
     for project in projects:
 
