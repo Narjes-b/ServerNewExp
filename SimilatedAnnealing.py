@@ -426,7 +426,7 @@ def main(evaluate, create_individual, initial_temp, cooling_rate, num_iterations
 
 
 if __name__ == "__main__":
-    projects = ['matrix-docker-ansible-deploy']
+    projects = ['attack_range']
     Algo = 'SA_FINAL'
     initial_temp = 10000
     cooling_rate = 0.99

@@ -300,7 +300,7 @@ def main(num_particles, num_iterations,f):
 
 
 if __name__ == "__main__":
-    projects = ['matrix-docker-ansible-deploy']
+    projects = ['attack_range']
     Algo = 'PSO_FINAL'
     for project in projects:
 
