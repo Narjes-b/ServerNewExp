@@ -273,7 +273,7 @@ def main(iterations, population_size,f):
 
 
 if __name__ == "__main__":
-    projects = ['attack_range']
+    projects = ['algo']
     Algo = 'RS_FINAL'
     for project in projects:
 
