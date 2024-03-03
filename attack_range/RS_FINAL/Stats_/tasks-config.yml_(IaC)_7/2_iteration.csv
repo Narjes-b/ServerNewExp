@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/terraform/ansible/roles/carbon_black_cloud_logs/tasks/config.yml_(IaC)_,2,0.09700578683891634,"[320, 66, 38, 394, 110, 303, 111, 304, 403, 311]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/terraform/ansible/roles/red_team_tools/tasks/main.yml_(IaC)_,12,0.08667862290266481,"[256, 376, 261, 298, 368, 371, 244, 341, 408, 94]"

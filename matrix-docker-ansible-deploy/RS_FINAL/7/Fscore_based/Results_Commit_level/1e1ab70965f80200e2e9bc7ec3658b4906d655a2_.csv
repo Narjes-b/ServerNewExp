@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/rust-synapse-compress-state/compress_room.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/templates/synapse/ext/s3-storage-provider/bin/migrate.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/templates/synapse/ext/s3-storage-provider/bin/shell.j2_(Other)_,0.0,0.0,0.0,0.0,0.0

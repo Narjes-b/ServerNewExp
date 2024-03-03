@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse-admin/tasks/main.yml_(IaC)_,20,0.21692240666455104,"[365, 599, 397, 462, 460, 458, 172, 190, 545, 67]"

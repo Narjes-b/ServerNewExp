@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-client-cinny/tasks/validate_config.yml_(IaC)_,4,0.13583338851514554,"[8, 107, 523, 47, 82, 146, 568, 538, 411, 286]"

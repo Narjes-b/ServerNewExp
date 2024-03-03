@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+iiab/roles/nginx/tasks/install.yml_(IaC)_,1,0.13820364719156739,"[602, 516, 610, 559, 91, 344, 466, 628, 556, 727]"

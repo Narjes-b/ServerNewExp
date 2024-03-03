@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/s3-storage-provider/setup_install.yml_(IaC)_,5,0.19748866008401664,"[474, 616, 178, 473, 626, 483, 458, 475, 12, 278, 374]"

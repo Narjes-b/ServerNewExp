@@ -1,0 +1,5 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/network/tasks/netplan.yml_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.3333333333333333
+iiab/roles/network/tasks/detected_network.yml_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.2
+iiab/roles/network/tasks/main.yml_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.25
+iiab/roles/network/tasks/restart.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

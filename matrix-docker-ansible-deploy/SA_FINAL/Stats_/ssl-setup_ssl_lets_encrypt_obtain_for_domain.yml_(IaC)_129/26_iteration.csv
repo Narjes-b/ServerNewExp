@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-nginx-proxy/tasks/ssl/setup_ssl_lets_encrypt_obtain_for_domain.yml_(IaC)_,26,0.11059957576990098,"[452, 402, 616, 461, 12, 483, 435, 421, 565, 324, 233, 239, 10, 232, 310, 240, 462, 29, 30, 144]"

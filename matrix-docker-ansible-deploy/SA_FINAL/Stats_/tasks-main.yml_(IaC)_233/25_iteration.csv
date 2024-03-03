@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-ldap-registration-proxy/tasks/main.yml_(IaC)_,25,0.25283665846503167,"[365, 438, 406, 333, 582, 422, 350, 574, 279, 627, 196, 164, 231, 24, 172, 273, 85]"

@@ -1,0 +1,7 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+algo/roles/strongswan/tasks/openssl.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+algo/config.cfg_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/roles/strongswan/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/roles/strongswan/templates/charon.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/roles/strongswan/templates/mobileconfig.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/tests/ipsec-client.sh_(Other)_,0.0,0.0,0.0,0.0,0.0

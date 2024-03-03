@@ -1,0 +1,5 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/s3-storage-provider/validate_config.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/templates/synapse/ext/s3-storage-provider/env.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/templates/synapse/ext/s3-storage-provider/media_storage_provider.yaml.j2_(Other)_,0.0,0.0,0.0,0.0,0.0

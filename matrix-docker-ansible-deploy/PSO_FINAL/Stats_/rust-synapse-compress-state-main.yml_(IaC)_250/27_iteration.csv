@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/rust-synapse-compress-state/main.yml_(IaC)_,27,0.14675932831323932,"[565, 402, 461, 511, 14, 129, 586, 483, 348, 638]"

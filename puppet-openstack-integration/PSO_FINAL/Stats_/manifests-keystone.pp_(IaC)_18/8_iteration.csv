@@ -1,2 +1,0 @@
-IaC file,Iteration,best_fitness,Best_individual
-puppet-openstack-integration/manifests/keystone.pp_(IaC)_,8,0.21074576919070093,"[42, 64, 80, 57, 46, 55, 50, 67, 74, 58]"

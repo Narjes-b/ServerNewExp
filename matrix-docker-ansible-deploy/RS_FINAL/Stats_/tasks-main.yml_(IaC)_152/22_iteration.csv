@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mx-puppet-groupme/tasks/main.yml_(IaC)_,22,0.1895443429552641,"[67, 582, 204, 557, 462, 433, 628, 85, 601, 574]"

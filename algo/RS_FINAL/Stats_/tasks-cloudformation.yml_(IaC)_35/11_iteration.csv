@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/cloud-ec2/tasks/cloudformation.yml_(IaC)_,11,0.11622882151547838,"[123, 78, 81, 83, 84, 55, 88, 25, 26, 59, 60]"

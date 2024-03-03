@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-telegram/tasks/main.yml_(IaC)_,7,0.19892691288993253,"[350, 130, 122, 487, 397, 557, 598, 26, 93, 62]"

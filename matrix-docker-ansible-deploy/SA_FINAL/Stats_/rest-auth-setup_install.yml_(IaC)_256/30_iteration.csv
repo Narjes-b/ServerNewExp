@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/rest-auth/setup_install.yml_(IaC)_,30,0.16067432347896127,"[374, 468, 310, 348, 92, 470, 364, 284, 626, 30, 278, 616, 12, 46, 609, 467]"

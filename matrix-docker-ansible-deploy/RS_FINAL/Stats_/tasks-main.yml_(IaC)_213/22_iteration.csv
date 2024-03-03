@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-appservice-slack/tasks/main.yml_(IaC)_,22,0.2107132221623481,"[511, 460, 527, 179, 596, 341, 275, 31, 286, 383]"

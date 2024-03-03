@@ -1,0 +1,13 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/captiveportal/tasks/install.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/captiveportal/templates/iiab-divert-to-nginx.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/cups/templates/cups.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/network/templates/dhcp/dhcpd-iiab.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/network/templates/gateway/iiab-gen-iptables_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/network/templates/network/dnsmasq.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/samba/templates/smb.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/transmission/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/vars/default_vars.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/cups/tasks/install.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/network/tasks/enable_services.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/network/tasks/named.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

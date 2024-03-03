@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/4-server-options/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/network/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/2-common/tasks/main.yml_(IaC)_,0.2857142857142857,0.6666666666666666,0.4,1.0,0.3333333333333333

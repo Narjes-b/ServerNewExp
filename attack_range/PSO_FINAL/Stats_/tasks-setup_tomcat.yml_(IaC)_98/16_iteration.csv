@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/guacamole/tasks/setup_tomcat.yml_(IaC)_,16,0.08655687665677085,"[249, 360, 264, 311, 231, 230, 340, 298, 232, 247]"

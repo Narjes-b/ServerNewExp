@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/0-init/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/scripts/iiab-apps-to-be-installed_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/1-prep/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-facebook/tasks/inject_into_nginx_proxy.yml_(IaC)_,24,0.19566489279233037,"[382, 164, 128, 580, 597, 161, 331, 420, 162, 436, 404, 163, 170, 194]"

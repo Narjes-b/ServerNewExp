@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+attack_range/packer/ansible/roles/guacamole/tasks/guacamole_client.yml_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.2
+attack_range/packer/ansible/roles/windows_aurora_agent/files/aurora-trial_365_p_bareiss.lic_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/guacamole/tasks/guacamole_server.yml_(IaC)_,0.1,0.3333333333333333,0.15384615384615383,1.0,0.125

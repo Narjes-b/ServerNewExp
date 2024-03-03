@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/terraform/ansible/roles/phantom/tasks/configure_phantom.yml_(IaC)_,30,0.09927168430832589,"[67, 295, 395, 112, 308, 245, 184, 409, 187, 92]"

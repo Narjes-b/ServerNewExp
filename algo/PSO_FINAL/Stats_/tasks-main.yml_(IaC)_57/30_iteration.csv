@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/cloud-digitalocean/tasks/main.yml_(IaC)_,30,0.2352874454240026,"[80, 123, 21, 49, 110, 64, 95, 88, 79, 68]"

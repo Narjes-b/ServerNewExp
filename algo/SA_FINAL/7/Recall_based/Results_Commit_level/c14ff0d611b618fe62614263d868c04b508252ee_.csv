@@ -1,0 +1,9 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+algo/roles/cloud-azure/tasks/main.yml_(IaC)_,0.14285714285714285,0.14285714285714285,0.14285714285714285,1.0,0.25
+algo/.github/workflows/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/config.cfg_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/input.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/roles/cloud-azure/files/deployment.json_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/roles/strongswan/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/tests/pre-deploy.sh_(Other)_,0.0,0.0,0.0,0.0,0.0
+algo/roles/wireguard/tasks/ubuntu.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

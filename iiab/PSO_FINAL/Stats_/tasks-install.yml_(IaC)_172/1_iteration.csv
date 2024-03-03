@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+iiab/roles/mongodb/tasks/install.yml_(IaC)_,1,0.14374381279426823,"[110, 211, 663, 561, 134, 488, 610, 628, 537, 168]"

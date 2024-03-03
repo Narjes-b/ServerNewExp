@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/strongswan/tasks/ipsec_configuration.yml_(IaC)_,10,0.1207572864612916,"[61, 64, 42, 30, 65, 60, 25, 26, 93, 29, 43, 90, 113, 62, 28, 36, 27, 92]"

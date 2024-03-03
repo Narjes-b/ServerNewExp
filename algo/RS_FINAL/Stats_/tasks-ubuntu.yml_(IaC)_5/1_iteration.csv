@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/strongswan/tasks/ubuntu.yml_(IaC)_,1,0.11797089367791508,"[64, 42, 43, 10, 28, 113, 89, 124, 30, 63]"

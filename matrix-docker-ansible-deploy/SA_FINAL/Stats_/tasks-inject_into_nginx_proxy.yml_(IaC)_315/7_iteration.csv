@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse-admin/tasks/inject_into_nginx_proxy.yml_(IaC)_,7,0.1958431923950071,"[572, 625, 580, 382, 331, 363, 420, 509, 347, 194, 298, 404, 436, 459, 525]"

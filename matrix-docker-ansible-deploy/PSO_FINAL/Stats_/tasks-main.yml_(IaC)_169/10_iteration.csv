@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mx-puppet-twitter/tasks/main.yml_(IaC)_,10,0.2210436901703608,"[273, 350, 47, 195, 279, 304, 365, 627, 384, 318, 340, 51]"

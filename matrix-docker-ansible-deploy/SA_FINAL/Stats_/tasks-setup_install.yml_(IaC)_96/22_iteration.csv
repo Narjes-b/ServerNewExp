@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-dimension/tasks/setup_install.yml_(IaC)_,22,0.3026914924267228,"[348, 510, 374, 581, 155, 219, 310, 284, 195, 46, 444, 429, 30]"

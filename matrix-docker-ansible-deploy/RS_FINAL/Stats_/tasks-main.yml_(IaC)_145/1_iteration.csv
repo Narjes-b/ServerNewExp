@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse-reverse-proxy-companion/tasks/main.yml_(IaC)_,1,0.15510657614585177,"[130, 357, 325, 518, 557, 432, 220, 150, 121, 540, 414]"

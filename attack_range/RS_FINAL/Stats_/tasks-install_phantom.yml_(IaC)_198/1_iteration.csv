@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/phantom/tasks/install_phantom.yml_(IaC)_,1,0.09972544219500434,"[10, 300, 111, 208, 112, 306, 307, 213, 221, 316, 61]"

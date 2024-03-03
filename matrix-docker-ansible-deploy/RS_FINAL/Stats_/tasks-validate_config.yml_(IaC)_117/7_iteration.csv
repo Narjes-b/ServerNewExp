@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-nginx-proxy/tasks/validate_config.yml_(IaC)_,7,0.14414095692254783,"[192, 451, 456, 329, 74, 235, 555, 19, 53, 126]"

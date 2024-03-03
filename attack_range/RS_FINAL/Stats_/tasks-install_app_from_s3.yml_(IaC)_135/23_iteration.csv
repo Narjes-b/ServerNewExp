@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/splunk_server/tasks/install_app_from_s3.yml_(IaC)_,23,0.09240724330723049,"[293, 300, 269, 209, 244, 21, 375, 24, 311, 94]"

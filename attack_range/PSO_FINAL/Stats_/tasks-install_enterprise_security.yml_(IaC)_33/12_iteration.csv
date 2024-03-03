@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/terraform/ansible/roles/splunk_server_post/tasks/install_enterprise_security.yml_(IaC)_,12,0.1017917016874048,"[300, 246, 66, 320, 334, 16, 170, 111, 50, 247]"

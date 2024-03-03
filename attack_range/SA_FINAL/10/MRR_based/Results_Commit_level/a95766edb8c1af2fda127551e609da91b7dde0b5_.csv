@@ -1,0 +1,9 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+attack_range/packer/ansible/roles/guacamole/tasks/setup_tomcat.yml_(IaC)_,0.1,0.14285714285714285,0.11764705882352941,1.0,0.1111111111111111
+attack_range/packer/ansible/nginx_web_proxy.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/nginx_web_proxy/templates/deploymentclient.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/nginx_web_proxy/templates/outputs.conf.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/zeek_server/zeek_aws.pkr.hcl_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/modules/phantom-server/resources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/modules/zeek-server/ressources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/zeek_sensor/tasks/zeek.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-client-cinny/tasks/self_check.yml_(IaC)_,9,0.15230135631593256,"[455, 617, 375, 390, 11, 350, 554, 551, 450, 45, 202, 273, 373, 627, 271]"

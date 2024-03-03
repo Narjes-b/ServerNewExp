@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/modules/ansible/roles/atomic_red_team/tasks/run_art_test_windows.yml_(IaC)_,1,0.09946035351169698,"[288, 186, 260, 359, 184, 353, 296, 294, 118, 410]"

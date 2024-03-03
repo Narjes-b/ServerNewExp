@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-googlechat/tasks/main.yml_(IaC)_,10,0.20953210913550163,"[179, 333, 589, 511, 566, 47, 216, 52, 65, 314]"

@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/2-common/tasks/packages.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/iiab-admin/templates/sshpwd-lxde-iiab.sh.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/jupyterhub/tasks/install.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/kalite/tasks/install.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/2-common/tasks/network.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

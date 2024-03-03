@@ -1,0 +1,16 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+attack_range/packer/ansible/roles/guacamole/tasks/guacamole_client.yml_(IaC)_,0.2857142857142857,0.13333333333333333,0.18181818181818182,1.0,0.5
+attack_range/configs/attack_range_default.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/linux_osquery/files/osquery_install.sh_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/osquery_linux/files/osquery_install.sh_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/linux_server/linux_aws.pkr.hcl_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/nginx_server/nginx_aws.pkr.hcl_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/splunk_server/splunk_aws.pkr.hcl_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/modules/linux-server/resources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/modules/nginx-server/resources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/modules/splunk-server/resources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/linux_sysmon/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/guacamole/tasks/guacamole_server.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/ansible/roles/linux_server_post/tasks/change_splunk_password.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/linux_common/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/roles/linux_osquery/tasks/main.yml_(IaC)_,0.14285714285714285,0.06666666666666667,0.09090909090909091,1.0,0.25

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/shared-secret-auth/setup_install.yml_(IaC)_,5,0.11547652240640016,"[477, 66, 483, 58, 67, 294, 145, 570, 61, 318]"

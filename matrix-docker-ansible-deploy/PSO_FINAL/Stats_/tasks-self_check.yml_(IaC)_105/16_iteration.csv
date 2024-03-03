@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-client-hydrogen/tasks/self_check.yml_(IaC)_,16,0.12695591898917846,"[450, 373, 422, 442, 430, 163, 270, 201, 220, 482, 83]"

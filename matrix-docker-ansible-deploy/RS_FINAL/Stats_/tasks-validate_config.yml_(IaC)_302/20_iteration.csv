@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-dendrite/tasks/validate_config.yml_(IaC)_,20,0.15168733594191716,"[418, 227, 389, 43, 556, 301, 595, 244, 437, 28]"

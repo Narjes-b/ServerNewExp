@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/cloud-scaleway/tasks/main.yml_(IaC)_,23,0.184788447400542,"[23, 49, 55, 126, 112, 77, 64, 123, 60, 88, 127, 85, 80, 57]"

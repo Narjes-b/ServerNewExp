@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus-nginxlog-exporter/tasks/setup_uninstall.yml_(IaC)_,16,0.1507471905714536,"[345, 136, 137, 138, 139, 134, 481, 388, 372, 185, 453, 135, 395, 289, 54, 553, 270, 571, 591]"

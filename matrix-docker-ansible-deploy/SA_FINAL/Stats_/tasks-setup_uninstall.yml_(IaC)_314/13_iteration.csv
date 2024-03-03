@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse-admin/tasks/setup_uninstall.yml_(IaC)_,13,0.19996458991977836,"[289, 22, 481, 37, 177, 388, 571, 185, 270, 573]"

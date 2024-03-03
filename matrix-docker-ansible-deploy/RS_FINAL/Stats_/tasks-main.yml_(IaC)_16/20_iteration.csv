@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-dynamic-dns/tasks/main.yml_(IaC)_,20,0.19199213106637053,"[67, 325, 357, 619, 460, 238, 529, 627, 374, 573]"

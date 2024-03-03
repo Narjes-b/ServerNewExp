@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/terraform/ansible/roles/splunk_server_post/tasks/phantom_server_configure.yml_(IaC)_,1,0.10583654091446625,"[245, 81, 340, 66, 339, 213, 182, 168, 43, 315]"

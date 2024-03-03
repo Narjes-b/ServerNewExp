@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-heisenbridge/tasks/main.yml_(IaC)_,1,0.24177490305203103,"[318, 277, 273, 93, 213, 196, 99, 67, 239, 262]"

@@ -1,0 +1,2 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+attack_range/packer/ansible/roles/windows_common/tasks/install_app_chocolatey.yml_(IaC)_,1.0,1.0,1.0,1.0,1.0

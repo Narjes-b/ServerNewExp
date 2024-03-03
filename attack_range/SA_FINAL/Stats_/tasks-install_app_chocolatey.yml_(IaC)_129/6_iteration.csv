@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/windows_common/tasks/install_app_chocolatey.yml_(IaC)_,6,0.12301480859938524,"[48, 288, 293, 81, 237, 103, 90, 107, 75, 290]"

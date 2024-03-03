@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-user-creator/tasks/main.yml_(IaC)_,21,0.14963388748638082,"[130, 231, 557, 527, 240, 156, 466, 564, 151, 220, 509]"

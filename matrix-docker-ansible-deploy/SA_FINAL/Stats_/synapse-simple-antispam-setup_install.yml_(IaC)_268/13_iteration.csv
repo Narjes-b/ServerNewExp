@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/synapse-simple-antispam/setup_install.yml_(IaC)_,13,0.1439480977026968,"[480, 348, 479, 284, 374, 310, 178, 186, 471, 278, 46, 626, 472, 12, 92, 616, 30, 573]"

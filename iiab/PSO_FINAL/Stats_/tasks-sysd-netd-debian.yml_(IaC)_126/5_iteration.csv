@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+iiab/roles/network/tasks/sysd-netd-debian.yml_(IaC)_,5,0.11166739281898021,"[353, 363, 368, 528, 158, 287, 216, 154, 334, 110]"

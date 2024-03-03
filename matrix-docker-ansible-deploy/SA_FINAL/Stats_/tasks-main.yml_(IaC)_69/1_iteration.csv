@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus-nginxlog-exporter/tasks/main.yml_(IaC)_,1,0.15071109230279814,"[350, 273, 589, 518, 557, 54, 24, 390, 138, 375, 542, 137]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/encryption-disabler/setup_install.yml_(IaC)_,20,0.16556974221946388,"[626, 483, 470, 155, 464, 468, 278, 477, 476, 178, 12, 203, 186, 609, 581, 348, 616]"

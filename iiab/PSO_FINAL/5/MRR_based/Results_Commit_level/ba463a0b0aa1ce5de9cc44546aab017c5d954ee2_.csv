@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/lokole/tasks/install.yml_(IaC)_,0.2,1.0,0.33333333333333337,1.0,0.3333333333333333
+iiab/roles/lokole/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0

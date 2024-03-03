@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/linux_common/tasks/update_packages.yml_(IaC)_,22,0.07971189891492793,"[416, 385, 258, 293, 273, 210, 277, 342, 253, 286]"

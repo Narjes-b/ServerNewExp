@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/kiwix/tasks/enable-or-disable.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/kiwix/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/kiwix/templates/iiab-make-kiwix-lib_(Other)_,0.0,0.0,0.0,0.0,0.0

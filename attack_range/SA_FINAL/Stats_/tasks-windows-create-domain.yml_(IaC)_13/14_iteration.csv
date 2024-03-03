@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/terraform/ansible/roles/create_domain_controller/tasks/windows-create-domain.yml_(IaC)_,14,0.11751370745693736,"[286, 33, 31, 256, 48, 90, 255, 84, 229, 228, 298, 292, 284, 295, 395, 363, 294, 49, 396]"

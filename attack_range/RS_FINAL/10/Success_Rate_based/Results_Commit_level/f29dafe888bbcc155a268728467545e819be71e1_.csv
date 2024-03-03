@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+attack_range/packer/ansible/roles/guacamole/tasks/setup_tomcat.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/splunk_server.yml_(Other)_,0.0,0.0,0.0,0.0,0.0

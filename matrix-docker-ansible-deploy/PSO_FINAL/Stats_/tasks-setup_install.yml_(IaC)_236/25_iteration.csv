@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-go-skype-bridge/tasks/setup_install.yml_(IaC)_,25,0.261139863197273,"[383, 66, 348, 155, 360, 203, 581, 163, 137, 309]"

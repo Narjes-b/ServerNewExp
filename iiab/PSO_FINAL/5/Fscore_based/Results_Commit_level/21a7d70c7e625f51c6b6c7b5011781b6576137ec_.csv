@@ -1,0 +1,4 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+iiab/roles/vnstat/tasks/install.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+iiab/roles/vnstat/templates/vnstat.conf.j2.unused_(Other)_,0.0,0.0,0.0,0.0,0.0
+iiab/test.yml_(Other)_,0.0,0.0,0.0,0.0,0.0

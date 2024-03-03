@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-nginx-proxy/tasks/ssl/setup_ssl_self_signed_obtain_for_domain.yml_(IaC)_,0,0.12739584310644608,"[616, 233, 237, 435, 348, 374, 481, 235, 345, 232, 239, 437, 537, 12]"

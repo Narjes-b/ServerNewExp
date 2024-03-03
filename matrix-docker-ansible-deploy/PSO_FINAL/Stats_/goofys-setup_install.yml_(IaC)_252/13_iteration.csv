@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/goofys/setup_install.yml_(IaC)_,13,0.21568664185902361,"[317, 129, 405, 356, 179, 510, 463, 178, 556, 290]"

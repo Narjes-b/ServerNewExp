@@ -1,0 +1,9 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+matrix-docker-ansible-deploy/roles/custom/matrix_playbook_migration/tasks/validate_config.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/group_vars/matrix_servers_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/requirements.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus-services-connect/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus/templates/prometheus.yml.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus-nginxlog-exporter/tasks/validate_config.yml_(IaC)_,0.3333333333333333,0.07142857142857142,0.11764705882352941,1.0,0.3333333333333333
+matrix-docker-ansible-deploy/roles/custom/matrix-prometheus-nginxlog-exporter/tasks/setup_uninstall.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

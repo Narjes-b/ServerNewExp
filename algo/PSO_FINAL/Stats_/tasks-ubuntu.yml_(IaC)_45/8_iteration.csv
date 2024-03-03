@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/wireguard/tasks/ubuntu.yml_(IaC)_,8,0.10935032342149395,"[100, 92, 104, 26, 60, 28, 110, 84, 115, 114]"

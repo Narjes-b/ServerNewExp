@@ -1,8 +1,0 @@
-IaC_File,Precision,Recall,Fscore,Success_rate,MRR
-puppet-openstack-integration/manifests/repos.pp_(IaC)_,0.1,0.16666666666666666,0.125,1.0,0.5
-puppet-openstack-integration/configure_facts.sh_(Other)_,0.0,0.0,0.0,0.0,0.0
-puppet-openstack-integration/playbooks/run-integration-tests.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
-puppet-openstack-integration/playbooks/run-libraries-litmus-tests.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
-puppet-openstack-integration/playbooks/run-litmus-tests.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
-puppet-openstack-integration/zuul.d/integration.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0
-puppet-openstack-integration/zuul.d/litmus.yaml_(Other)_,0.0,0.0,0.0,0.0,0.0

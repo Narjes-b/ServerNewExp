@@ -1,2 +1,0 @@
-IaC file,Iteration,best_fitness,Best_individual
-puppet-openstack-integration/manifests/ceilometer.pp_(IaC)_,29,0.18306327422559548,"[32, 64, 71, 77, 79, 48, 49, 52, 55, 57, 63]"

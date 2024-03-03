@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/import_media_store.yml_(IaC)_,23,0.11499285289465165,"[454, 456, 481, 219, 444, 185, 187, 488, 565, 36, 621]"

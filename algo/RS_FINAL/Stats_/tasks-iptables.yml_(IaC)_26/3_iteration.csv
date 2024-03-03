@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/common/tasks/iptables.yml_(IaC)_,3,0.08664580015483658,"[64, 65, 67, 137, 111, 113, 55, 24, 91, 124]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/guacamole/tasks/guacamole_server.yml_(IaC)_,1,0.091443512065569,"[384, 419, 58, 262, 299, 270, 276, 90, 60, 255]"

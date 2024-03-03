@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+algo/roles/strongswan/tasks/openssl.yml_(IaC)_,4,0.11471306392153942,"[60, 26, 10, 25, 80, 93, 28, 84, 63, 64]"

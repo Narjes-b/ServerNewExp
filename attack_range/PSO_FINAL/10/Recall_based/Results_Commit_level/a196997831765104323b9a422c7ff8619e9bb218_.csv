@@ -1,0 +1,8 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+attack_range/modules/ansible/roles/atomic_red_team/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/linux_server.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/packer/ansible/windows.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/modules/windows/resources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/aws/ressources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/terraform/azure/modules/windows/resources.tf_(Other)_,0.0,0.0,0.0,0.0,0.0
+attack_range/modules/ansible/roles/atomic_red_team/tasks/run_art_linux.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

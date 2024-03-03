@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mx-puppet-steam/tasks/main.yml_(IaC)_,1,0.22267422501855919,"[24, 13, 384, 390, 527, 574, 292, 149, 325, 164]"

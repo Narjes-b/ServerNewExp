@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+attack_range/packer/ansible/roles/nginx_web_proxy/tasks/nginx_web_proxy.yml_(IaC)_,1,0.0984715958333231,"[361, 269, 270, 207, 208, 336, 405, 218, 380, 223]"

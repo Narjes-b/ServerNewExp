@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-appservice-kakaotalk/tasks/main.yml_(IaC)_,23,0.19341107178010228,"[610, 325, 422, 73, 396, 557, 333, 405, 503, 157]"

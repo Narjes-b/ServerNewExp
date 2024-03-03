@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+matrix-docker-ansible-deploy/roles/custom/matrix-synapse/tasks/ext/mjolnir-antispam/setup_install.yml_(IaC)_,4,0.11863207764152944,"[480, 481, 195, 330, 238, 176, 278, 345, 410, 95]"

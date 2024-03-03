@@ -1,0 +1,7 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-facebook/tasks/inject_into_nginx_proxy.yml_(IaC)_,0.4,0.2222222222222222,0.2857142857142857,1.0,0.25
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-whatsapp/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-instagram/tasks/main.yml_(IaC)_,0.2,0.1111111111111111,0.14285714285714285,1.0,0.3333333333333333
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-signal/tasks/main.yml_(IaC)_,0.2,0.1111111111111111,0.14285714285714285,1.0,0.3333333333333333
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-twitter/tasks/main.yml_(IaC)_,0.4,0.2222222222222222,0.2857142857142857,1.0,0.3333333333333333
+matrix-docker-ansible-deploy/roles/custom/matrix-bridge-mautrix-whatsapp/tasks/main.yml_(IaC)_,0.2,0.1111111111111111,0.14285714285714285,1.0,0.3333333333333333
