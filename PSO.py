@@ -300,7 +300,7 @@ def main(num_particles, num_iterations,f):
 
 
 if __name__ == "__main__":
-    projects = ['algo']
+    projects = ['puppet-tp']
     Algo = 'PSO_FINAL'
     for project in projects:
 
