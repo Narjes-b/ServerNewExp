@@ -1,0 +1,12 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tp/manifests/repo.pp_(IaC)_,0.6,0.2727272727272727,0.37499999999999994,1.0,0.3333333333333333
+puppet-tp/metadata.json_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/classes/tp_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/defines/tp_install_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/defines/tp_repo_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/tpdata/centos-7-x86_64/sysdig_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/tpdata/ubuntu-16.04-x86_64/sysdig_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/tp.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/manifests/init.pp_(IaC)_,0.4,0.18181818181818182,0.25000000000000006,1.0,0.3333333333333333
+puppet-tp/types/settings.pp_(IaC)_,0.2,0.09090909090909091,0.12500000000000003,1.0,0.5
+puppet-tp/manifests/install.pp_(IaC)_,0.6,0.2727272727272727,0.37499999999999994,1.0,0.5

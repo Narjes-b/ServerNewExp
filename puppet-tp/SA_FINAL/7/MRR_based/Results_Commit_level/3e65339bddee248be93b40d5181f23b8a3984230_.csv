@@ -1,0 +1,12 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tp/manifests/conf.pp_(IaC)_,0.2857142857142857,0.2,0.23529411764705882,1.0,0.5
+puppet-tp/files/run_debug/pid_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/metadata.json_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/classes/tp_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/defines/info_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/spec/defines/test_spec.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/tp.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/manifests/repo.pp_(IaC)_,0.2857142857142857,0.2,0.23529411764705882,1.0,0.5
+puppet-tp/manifests/init.pp_(IaC)_,0.42857142857142855,0.3,0.3529411764705882,1.0,0.5
+puppet-tp/manifests/dir.pp_(IaC)_,0.2857142857142857,0.2,0.23529411764705882,1.0,0.3333333333333333
+puppet-tp/types/settings.pp_(IaC)_,0.2857142857142857,0.2,0.23529411764705882,1.0,0.3333333333333333

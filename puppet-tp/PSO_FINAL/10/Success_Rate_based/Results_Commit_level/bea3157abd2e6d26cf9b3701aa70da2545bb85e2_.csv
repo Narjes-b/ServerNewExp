@@ -1,0 +1,10 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+puppet-tp/manifests/conf.pp_(IaC)_,0.3,0.375,0.33333333333333326,1.0,1.0
+puppet-tp/lib/puppet/parser/functions/tp_lookup.rb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/inifile.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/inifile_with_stanzas.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/settings.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/spaced.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/spaced_with_stanzas.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/templates/tp.erb_(Other)_,0.0,0.0,0.0,0.0,0.0
+puppet-tp/manifests/dir.pp_(IaC)_,0.2,0.25,0.22222222222222224,1.0,0.25
