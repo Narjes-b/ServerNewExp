@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/ansible-role-firewall/handlers/main.yml_(IaC)_,11,0.10913401393508107,"[67, 68, 69, 112, 148, 182, 151, 120, 89, 27]"

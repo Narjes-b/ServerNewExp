@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/pgbouncer/tasks/main.yml_(IaC)_,23,0.16147757423786838,"[53, 177, 168, 181, 157, 117, 81, 208, 111, 8]"

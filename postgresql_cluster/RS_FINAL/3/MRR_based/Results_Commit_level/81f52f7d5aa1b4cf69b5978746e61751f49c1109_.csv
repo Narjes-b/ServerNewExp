@@ -1,0 +1,3 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+postgresql_cluster/roles/pgbouncer/config/tasks/main.yml_(IaC)_,0.3333333333333333,1.0,0.5,1.0,0.3333333333333333
+postgresql_cluster/roles/pgbouncer/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

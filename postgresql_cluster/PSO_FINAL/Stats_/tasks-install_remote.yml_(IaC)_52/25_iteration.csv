@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/install_remote.yml_(IaC)_,25,0.1432680435708308,"[108, 117, 110, 146, 184, 107, 154, 102, 182, 114]"

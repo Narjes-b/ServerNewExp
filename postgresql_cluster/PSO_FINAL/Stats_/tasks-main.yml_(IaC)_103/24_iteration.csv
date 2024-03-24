@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/haproxy/tasks/main.yml_(IaC)_,24,0.1613328170506237,"[194, 182, 56, 113, 54, 176, 93, 172, 73, 11]"

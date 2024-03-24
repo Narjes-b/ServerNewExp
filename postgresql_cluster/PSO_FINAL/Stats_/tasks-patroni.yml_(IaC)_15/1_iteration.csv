@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/update/tasks/patroni.yml_(IaC)_,1,0.12896165654552283,"[162, 41, 34, 35, 73, 43, 125, 54, 167, 39]"

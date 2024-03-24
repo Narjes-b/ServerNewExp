@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/update/tasks/switchover.yml_(IaC)_,27,0.10711206106003558,"[35, 37, 38, 40, 170, 156, 188, 52, 54, 55, 220]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/dnsmasq.yml_(IaC)_,21,0.1408433871968815,"[107, 122, 116, 119, 108, 183, 120, 113, 118, 114, 111, 117, 115, 110, 112, 126, 109, 124, 125, 123]"

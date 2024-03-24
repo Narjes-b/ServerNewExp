@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/encrypt_gossip.yml_(IaC)_,5,0.13180783844086433,"[117, 122, 119, 126, 56, 107, 124, 125, 52, 118, 116, 112, 109, 121, 120, 108, 111, 123, 115, 114]"

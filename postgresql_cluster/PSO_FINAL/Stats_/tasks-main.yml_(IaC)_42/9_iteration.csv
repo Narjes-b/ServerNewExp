@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/pgbackrest/stanza-create/tasks/main.yml_(IaC)_,9,0.10079226602633468,"[82, 155, 41, 177, 124, 126, 191, 80, 81, 74]"

@@ -1,0 +1,15 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+postgresql_cluster/roles/pre-checks/tasks/pgbouncer.yml_(IaC)_,0.2857142857142857,0.15384615384615385,0.2,1.0,1.0
+postgresql_cluster/config_pgcluster.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/deploy_pgcluster.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/group_vars/master_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/group_vars/replica_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/inventory_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/roles/patroni/templates/patroni.yml.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/roles/pre-checks/tasks/timescaledb.yml_(IaC)_,0.2857142857142857,0.15384615384615385,0.2,1.0,0.3333333333333333
+postgresql_cluster/roles/pgbouncer/config/tasks/main.yml_(IaC)_,0.2857142857142857,0.15384615384615385,0.2,1.0,1.0
+postgresql_cluster/roles/patroni/tasks/main.yml_(IaC)_,0.14285714285714285,0.07692307692307693,0.1,1.0,1.0
+postgresql_cluster/roles/patroni/config/tasks/main.yml_(IaC)_,0.2857142857142857,0.15384615384615385,0.2,1.0,0.25
+postgresql_cluster/roles/pre-checks/tasks/patroni.yml_(IaC)_,0.14285714285714285,0.07692307692307693,0.1,1.0,0.5
+postgresql_cluster/roles/pre-checks/tasks/main.yml_(IaC)_,0.2857142857142857,0.15384615384615385,0.2,1.0,0.5
+postgresql_cluster/roles/pgbouncer/tasks/main.yml_(IaC)_,0.2857142857142857,0.15384615384615385,0.2,1.0,0.5

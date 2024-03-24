@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/pre-checks/tasks/timescaledb.yml_(IaC)_,26,0.09834857975521959,"[56, 160, 54, 161, 168, 92, 126, 187, 123, 176, 111]"

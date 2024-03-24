@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/etcd/tasks/main.yml_(IaC)_,26,0.16726560719422176,"[75, 56, 45, 191, 169, 162, 188, 46, 163, 167, 176]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/ntp/tasks/main.yml_(IaC)_,10,0.12425562390642825,"[32, 162, 3, 166, 44, 46, 78, 82, 52, 150]"

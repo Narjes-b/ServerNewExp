@@ -1,0 +1,8 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+postgresql_cluster/roles/add-repository/tasks/main.yml_(IaC)_,0.1,0.16666666666666666,0.125,1.0,0.5
+postgresql_cluster/.ansible-lint_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/config_pgcluster.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/deploy_pgcluster.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/molecule/default/converge.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/vars/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/roles/packages/tasks/main.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+IaC_File,Precision,Recall,Fscore,Success_rate,MRR
+postgresql_cluster/roles/consul/tasks/encrypt_gossip.yml_(IaC)_,0.1,0.25,0.14285714285714288,1.0,0.1111111111111111
+postgresql_cluster/.config/ansible-lint.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/roles/consul/defaults/main.yml_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/roles/consul/templates/config.json.j2_(Other)_,0.0,0.0,0.0,0.0,0.0
+postgresql_cluster/roles/consul/tasks/dnsmasq.yml_(IaC)_,0.0,0.0,0.0,0.0,0.0

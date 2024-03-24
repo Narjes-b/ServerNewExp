@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/ssh-keys/tasks/main.yml_(IaC)_,2,0.12745367316106226,"[81, 172, 163, 176, 42, 173, 136, 5, 87, 27]"

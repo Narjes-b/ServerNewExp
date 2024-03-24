@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/update/tasks/stop_services.yml_(IaC)_,22,0.11080100649248725,"[38, 39, 52, 44, 36, 81, 63, 4, 89, 123]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/pgbackrest/tasks/bootstrap_script.yml_(IaC)_,5,0.08760000028288686,"[75, 172, 109, 81, 82, 116, 213, 218, 29, 158]"

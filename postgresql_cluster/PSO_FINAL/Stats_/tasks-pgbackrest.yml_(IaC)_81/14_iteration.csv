@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/pre-checks/tasks/pgbackrest.yml_(IaC)_,14,0.09984902359780012,"[158, 156, 176, 65, 82, 159, 146, 80, 91, 28, 117]"

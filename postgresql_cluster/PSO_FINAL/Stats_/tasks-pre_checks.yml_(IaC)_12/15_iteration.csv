@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/update/tasks/pre_checks.yml_(IaC)_,15,0.09068276099574128,"[43, 57, 35, 40, 188, 82, 45, 93, 88, 178]"

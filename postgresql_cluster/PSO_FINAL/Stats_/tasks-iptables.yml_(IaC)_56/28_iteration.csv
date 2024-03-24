@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/iptables.yml_(IaC)_,28,0.12634403093787386,"[107, 118, 114, 112, 113, 111, 115, 56, 123, 53]"

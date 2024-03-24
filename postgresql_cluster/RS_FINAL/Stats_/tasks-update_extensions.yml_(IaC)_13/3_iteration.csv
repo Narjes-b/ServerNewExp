@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/update/tasks/update_extensions.yml_(IaC)_,3,0.10786409963991264,"[64, 35, 36, 41, 44, 110, 111, 176, 80, 210, 113]"

@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/wal-g/tasks/cron.yml_(IaC)_,0,0.12254577902363362,"[44, 65, 187, 56, 172, 168, 31, 42, 188, 58, 26, 185, 45, 92, 79]"

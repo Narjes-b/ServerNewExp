@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/windows.yml_(IaC)_,6,0.14924911223020268,"[110, 118, 117, 29, 108, 42, 124, 176, 88, 146]"

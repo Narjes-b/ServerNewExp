@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/snapshot.yml_(IaC)_,5,0.13109577298540223,"[114, 124, 109, 117, 190, 126, 113, 173, 79, 148, 175, 80]"

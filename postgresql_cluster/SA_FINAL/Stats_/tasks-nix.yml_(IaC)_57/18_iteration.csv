@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/nix.yml_(IaC)_,18,0.16651145196329498,"[107, 126, 56, 119, 115, 123, 110, 125, 121, 122, 124, 114, 117]"

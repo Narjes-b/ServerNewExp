@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/consul/tasks/install_linux_repo.yml_(IaC)_,1,0.10591696773522996,"[185, 195, 68, 111, 146, 117, 119, 153, 58, 95]"

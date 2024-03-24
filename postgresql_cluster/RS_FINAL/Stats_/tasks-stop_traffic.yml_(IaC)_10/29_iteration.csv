@@ -1,0 +1,2 @@
+IaC file,Iteration,best_fitness,Best_individual
+postgresql_cluster/roles/update/tasks/stop_traffic.yml_(IaC)_,29,0.12147136366631502,"[160, 33, 34, 36, 39, 74, 82, 182, 58, 124, 29]"
